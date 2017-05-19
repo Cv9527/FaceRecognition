@@ -5,7 +5,10 @@
 *.slo
 *.lo
 *.o
-*.obj
+*.obj  
+*.log  
+*.tlog
+*.lastbuildstate
 
 # Precompiled Headers
 *.gch
@@ -29,4 +32,16 @@
 # Executables
 *.exe
 *.out
-*.app
+*.app   
+
+# Debug Files  
+*.pdb
+
+# Extra Files   by wujiyang
+images/ 
+models/
+includes/
+*.zip
+
+# vs files  
+*.sdf

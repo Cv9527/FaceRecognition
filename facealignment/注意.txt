@@ -1,0 +1,5 @@
+人脸对齐采用的是自己编译的dlib库文件，
+在使用的时候 
+
+链接器 -> 输入 dlib.lib
+C/C++ -> 预处理器 中要加入 DLIB_PNG_SUPPORT  DLIB_JPEG_SUPPORT

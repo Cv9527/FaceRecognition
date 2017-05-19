@@ -17,4 +17,4 @@ old version for face alignment with the dlib-18.17 lib
 feature extract with the caffe_api, and add these features to the database;
 
 ## faceRecogniton  
-face detction、face alignment、face recognition using all above;
+face detction、face alignment、face recognition using all above methods;
